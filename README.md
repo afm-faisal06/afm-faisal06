@@ -24,11 +24,9 @@
     <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/flask.png" alt="flask" width="40" height="40"/></a> 
 </p>
 
-<center>
-    <br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=afm-faisal06&show_icons=true&locale=en&theme=nord&no-frame=true&margin-w=15&margin-h=15" alt="abufatahmohammedfaisal" width="500" height="auto">
-    <br>
-</center>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=afm-faisal06&show_icons=true&theme=nord" alt="abufatahmohammedfaisal" width="600" height="auto"></p>
+</p>
+
 
 <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=afm-faisal06&theme=tokyonight_duo&hide_border=true&date_format=(M%20j%5B%2C%20Y%5D)" alt="abufatahmohammedfaisal" /></p>
 
