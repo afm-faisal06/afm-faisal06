@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Abu Fatah Mohammed Faisal</h2>
 <p align="center">
-  Experienced web developer and machine learning enthusiast, adept in HTML, CSS, JavaScript, MySQL, PHP, Python, Java, and C, committed to user-centric solutions and project success.
+  Experienced web developer and machine learning enthusiast, adept in HTML, CSS, JavaScript, MySQL, PHP, Python, and Java, committed to user-centric solutions and project success.
 </p>
 
 <h3 align="center">Connect with me:</h3>
@@ -20,7 +20,6 @@
     <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript" width="40" height="40"/></a> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java" width="40" height="40"/></a> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/python--v1.png" alt="python" width="40" height="40"/></a>
-    <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/c-programming.png" alt="c" width="40" height="40"/></a>
     <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/flask.png" alt="flask" width="40" height="40"/></a> 
 </p>
 
