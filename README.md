@@ -5,8 +5,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.facebook.com/afm.faisal.66/" target="blank"><img align="center" src="https://img.icons8.com/color/48/facebook-new.png" alt="mdfaisal" height="40" width="40" /></a>
-<a href="mailto:mdfaisal8575@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="mdfaisal" height="40" width="40" /></a>  
+<a href="https://www.facebook.com/afm.faisal.06/" target="blank"><img align="center" src="https://img.icons8.com/color/48/facebook-new.png" alt="mdfaisal" height="40" width="40" /></a>
+<a href="mailto:abu.fatah.mohammed.faisal@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="mdfaisal" height="40" width="40" /></a>  
  <a href="https://www.linkedin.com/in/abu-fatah-mohammed-faisal" target="blank"><img align="center" src="https://img.icons8.com/color/48/linkedin-2--v1.png" alt="abufatahmohammedfaisal" height="40" width="40" /></a>
 
 
